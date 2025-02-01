@@ -1,33 +1,20 @@
-<h1 align="center">ROBIN SUNITA ROY</h1>
+<h1 align="center">DIVYANSHU SINGH</h1>
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=robin113x&color=ff69b4)
+  ![](https://komarev.com/ghpvc/?username=itssakyx&color=ff69b4)
 </div>
 
 <div align="center">
 
-<!--  <a href="https://robinroy.cf" target="_blank" > <img src="https://img.shields.io/website?style=plastic&up_message=robinroy.cf&url=https%3A%2F%2Frobinroy.cf" target="_blank"> </a> -->
+
 </div>
 
 
-<!--
-**robinr0y/robinr0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
-<h3 align="center">A Cyber-Security Enthusiast & DevOps Engineer from India</h3>
+
+<h3 align="center">A SDE & Full-Stack Developer from India</h3>
 
 </p>
 
@@ -36,38 +23,29 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td>🔭 I’m currently learning about</td>
-    <td>SEC565: Red Team Operations and Adversary Emulation</td>
+    <td>Oracle Certified Professional, Java SE 21 Programmer</td>
   </tr>
   <tr>
-    <td>🌱 Exploitation Framework</td>
-    <td>MetaSploit, Cobalt-Strike, PowerShell-Empire</td>
+    <td>🌱 web Dev</td>
+    <td>HTML, CSS , JS </td>
   </tr>
   <tr>
-    <td>👯 Scanning Tools</td>
-    <td>Nmap, RustScan, Nessus</td>
+    <td>👯 DB</td>
+    <td>SQL, MongoDB</td>
   </tr>
   <tr>
     <td>🤔 Languages</td>
-    <td> Java, PowerShell, Rust, Java, C, C++, Python, Bash</td>
+    <td> Java, JavaScript, C,  Python</td>
   </tr>
-  <tr>
-    <td>💬 Proxy Tools</td>
-    <td>Burp Suite Professional, ZAP</td>
-  </tr>
-  <tr>
-    <td>📫 Initial Access</td>
-    <td>Evilginx, GoPhish</td>
-  </tr>
-
    <tr>
     <td>✨ Web-App-Sec</td>
-    <td>SQLi, XXE</td>
+    <td>SQLi, XXS</td>
   </tr>
   <tr>
     
   </tr>
   <tr>
     <td>⚡ Fun fact</td>
-    <td>An Electrical Engineer who transitioned into a Cybersecurity Professional. A fun fact about me is that I can hack into a network quicker than I can solve a Rubik's cube!</td>
+    <td>I can solve a Rubik's cube!</td>
   </tr>
 </table>
